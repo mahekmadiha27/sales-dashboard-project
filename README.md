@@ -24,3 +24,6 @@ This project is an automated sales reporting dashboard built using Google Sheets
 - Sales_Data.csv: Raw sales data
 - Reporting_Data.csv: Processed reporting data
 - Sales_Dashboard.png: Final dashboard visualization
+
+  ## Dashboard Preview
+  ![Sales Dashboard](Sales_Dashboard.png)
